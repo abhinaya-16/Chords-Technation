@@ -35,3 +35,21 @@ dist-ssr/
 *.njsproj
 *.sln
 *.sw?
+
+# Python virtual environments
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Python virtualenv internals
+Lib/
+Scripts/
+pyvenv.cfg
+site-packages/
+
+# Build folders
+build/
